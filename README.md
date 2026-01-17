@@ -16,5 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/rawatkhushi)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rawatkhushi&show_icons=true&theme=transparent"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawatkhushi&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
 </p>
+

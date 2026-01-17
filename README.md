@@ -15,9 +15,10 @@
 [![Twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/itskhushirawat)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/rawatkhushi)
 
-<p align="center">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawatkhushi&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rawatkhushi&theme=tokyonight)
 
-</p>
+</div>
+
 
